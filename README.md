@@ -36,6 +36,7 @@ Um jogo de plataforma 2D desenvolvido em Unity, com foco em aventura, coleta de 
       ├── MenuPrincipalManager.cs
       ├── MusicController.cs
       ├── NextLevelPoint.cs
+      ├── Pause.cs
       ├── Player.cs
       ├── PlayerLife.cs
       ├── Saw.cs
