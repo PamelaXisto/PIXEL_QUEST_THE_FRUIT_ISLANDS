@@ -172,6 +172,9 @@ Clique em *JOGAR*
 ### Level 1
 ![Tela Level 1](Prints/TELA_LEVEL_1.png)
 
+### Pausa do jogo
+![Tela pausa do jogo] (Prints/PAUSA.png)
+
 ### Level 2
 ![Tela Level 2](Prints/TELA_LEVEL_2.png)
 
