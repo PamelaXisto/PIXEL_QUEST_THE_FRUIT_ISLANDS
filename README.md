@@ -64,6 +64,8 @@ O jogo inclui:
 
 - Andar (A/D ou setas ← / →)
 
+- Pausa o jogo (ESC)
+
 - Pular (Espaço)
 
 - Colisão e física 2D
@@ -99,10 +101,11 @@ O jogo inclui:
 
 ## ⌨️ Teclas utilizadas durante o jogo
 
-| Ação | Tecla |
-|------|--------|
-| Mover | A / D |
-| Pular | Espaço |
+|  Ação  | Tecla |
+|--------|-------|
+| Mover  | A / D |
+| Pular  | Espaço|
+| Pausar |  ESC  |
 
 
 ## 🖥️ Como Executar o Jogo
